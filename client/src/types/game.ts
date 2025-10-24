@@ -138,6 +138,7 @@ export interface Outcome {
   metricChanges: Partial<PlayerMetrics>;
   narrative: string;
   achievements: Achievement[];
+  warnings?: string[];
   visualEffects?: {
     type: 'success' | 'warning' | 'danger' | 'info';
     animation?: string;
