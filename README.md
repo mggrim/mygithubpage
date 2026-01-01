@@ -76,4 +76,29 @@ Each app has detailed documentation covering:
 
 ---
 
+## Build Your Own
+
+Interested in creating your own Apple Watch AI assistant with OAuth authentication?
+
+### 🛠️ [Complete Development Guide](BUILDING_OAUTH_WATCH_AI.md)
+
+This comprehensive guide covers:
+
+- **Architecture Design** - System components and data flow
+- **Authentication Strategies** - OAuth 2.0 vs BYOK (Bring Your Own Key)
+- **Complete Implementation** - Production-ready Swift code examples
+- **Advanced Features** - Double Tap, Action Button, Complications, Widgets
+- **Security Best Practices** - Keychain, certificate pinning, privacy
+- **Phase-by-phase Roadmap** - From MVP to App Store launch
+
+**Why build your own?**
+- 💰 Sustainable business model (users pay for API usage)
+- 🔒 Full control over privacy and features
+- 🎨 Differentiate with unique features
+- 📈 Scalable without high infrastructure costs
+
+Perfect for indie developers and teams looking to enter the Apple Watch AI space.
+
+---
+
 *Last Updated: January 2026*
