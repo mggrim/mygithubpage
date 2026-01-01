@@ -1,10 +1,12 @@
-# WatchGPT (Petey) - Feature Documentation
+# Apple Watch AI Apps - Feature Documentation
 
-This repository contains comprehensive documentation for **WatchGPT**, now known as **Petey - AI Chat**, a ChatGPT-powered application for Apple Watch, iPhone, and iPad.
+This repository contains comprehensive documentation for popular ChatGPT-powered applications for Apple Watch, iPhone, and other Apple devices.
 
-## Quick Overview
+## Featured Apps
 
-Petey brings ChatGPT directly to your Apple Watch and other Apple devices, featuring:
+### 1. WatchGPT (Petey) - AI Chat
+
+Petey (formerly WatchGPT) brings ChatGPT directly to your Apple Watch and other Apple devices, featuring:
 
 - ⌚ **Apple Watch Integration** - ChatGPT on your wrist
 - 🎙️ **Voice Interaction** - Voice-to-text input and text-to-speech output
@@ -16,15 +18,62 @@ Petey brings ChatGPT directly to your Apple Watch and other Apple devices, featu
 - 🔗 **Shortcuts Support** - Automation and Siri replacement
 - 📱 **Cross-Platform** - Seamless experience across Watch, iPhone, and iPad
 
-## Full Documentation
+📖 **[Complete Feature List](WATCHGPT_FEATURES.md)** | 🌐 [Official Website](https://petey.app/) | 📲 [App Store](https://apps.apple.com/us/app/petey-ai-chat/id6446047813)
 
-📖 **[Complete Feature List](WATCHGPT_FEATURES.md)** - Detailed documentation of all features
-
-## Resources
-
-- [Petey Official Website](https://petey.app/)
-- [Download from App Store](https://apps.apple.com/us/app/petey-ai-chat/id6446047813)
+*Developer: Hidde van der Ploeg*
 
 ---
 
-*Developer: Hidde van der Ploeg*
+### 2. WristGPT - AI for Watch
+
+WristGPT is a hands-free AI assistant designed specifically for Apple Watch with an emphasis on speed, privacy, and wearable interaction:
+
+- 👆 **Double Tap Gesture** - Hands-free mic trigger (Series 9, Ultra 2)
+- 🎯 **Action Button Support** - Instant access on Watch Ultra and iPhone
+- 🗣️ **Multiple Input Methods** - Voice, swipe, or type
+- ⚡ **Real-Time Streaming** - Natural conversation flow
+- 🌐 **Web Search** - Free for all users
+- 📝 **Capture & Journal** - Ideas, tasks, and notes instantly
+- 🔒 **Privacy-First** - No data collection
+- 🎨 **Liquid Glass Design** - Modern, sleek interface
+- 📱 **iPhone Widgets** - Home Screen, Lock Screen, Control Center
+- 💻 **Multi-Platform** - Watch, iPhone, Mac, Vision Pro
+
+📖 **[Complete Feature List](WRISTGPT_FEATURES.md)** | 📲 [App Store](https://apps.apple.com/us/app/wristgpt-ai-for-watch/id6744564150)
+
+*Professional-grade AI designed for runners, professionals, parents, and anyone seeking hands-free AI access*
+
+---
+
+## Comparison Overview
+
+| Feature | Petey (WatchGPT) | WristGPT |
+|---------|------------------|----------|
+| **Apple Watch** | ✅ Yes | ✅ Yes |
+| **Voice Input** | ✅ Yes | ✅ Yes |
+| **Watch Complications** | ✅ Yes | ✅ Yes |
+| **Double Tap Gesture** | ❌ No | ✅ Yes (S9, Ultra 2) |
+| **Action Button** | ❌ No | ✅ Yes |
+| **Apple Music Integration** | ✅ Yes | ❌ No |
+| **Apple Maps Integration** | ✅ Yes | ❌ No |
+| **Shortcuts Support** | ✅ Yes | ❌ No |
+| **Multiple AI Models** | ✅ GPT-3.5, GPT-4, o1 | ✅ Various models |
+| **Web Search** | ✅ Yes | ✅ Yes (Free for all) |
+| **iPhone Widgets** | ✅ Yes | ✅ Yes |
+| **Privacy (No Data Collection)** | ❓ Unknown | ✅ Verified |
+| **Apple Vision Pro** | ❌ No | ✅ Yes |
+| **Mac Support** | ❌ No | ✅ Yes |
+| **iPad Support** | ✅ Yes | ❌ No |
+
+## Documentation
+
+Each app has detailed documentation covering:
+- ✨ Complete feature lists
+- 🎯 Use cases and applications
+- 💰 Pricing and subscription details
+- 🔧 Technical requirements
+- 🆕 Recent updates and improvements
+
+---
+
+*Last Updated: January 2026*
